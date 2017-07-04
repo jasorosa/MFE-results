@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 import numpy as np
 
-SCURVES_NB = 125
-VCAL_RANGE = 35
+SCURVES_NB = 124
+VCAL_RANGE = 34
 
 # Logistic function
 def logistic(x, A, B):
